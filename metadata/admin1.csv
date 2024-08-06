@@ -1,0 +1,456 @@
+id,location_ref,code,name,from_cods,reference_period_start,reference_period_end,location_code,location_name
+#adm1+hapi_id,#country+hapi_id,#adm1+code,#adm1+name,,#date+start,#date+end,#country+code,#country+code
+1,1,AF01,Kabul,True,2021-11-17T00:00:00,,AFG,Afghanistan
+2,1,AF02,Kapisa,True,2021-11-17T00:00:00,,AFG,Afghanistan
+3,1,AF03,Parwan,True,2021-11-17T00:00:00,,AFG,Afghanistan
+4,1,AF04,Maidan Wardak,True,2021-11-17T00:00:00,,AFG,Afghanistan
+5,1,AF05,Logar,True,2021-11-17T00:00:00,,AFG,Afghanistan
+6,1,AF06,Nangarhar,True,2021-11-17T00:00:00,,AFG,Afghanistan
+7,1,AF07,Laghman,True,2021-11-17T00:00:00,,AFG,Afghanistan
+8,1,AF08,Panjsher,True,2021-11-17T00:00:00,,AFG,Afghanistan
+9,1,AF09,Baghlan,True,2021-11-17T00:00:00,,AFG,Afghanistan
+10,1,AF10,Bamyan,True,2021-11-17T00:00:00,,AFG,Afghanistan
+11,1,AF11,Ghazni,True,2021-11-17T00:00:00,,AFG,Afghanistan
+12,1,AF12,Paktika,True,2021-11-17T00:00:00,,AFG,Afghanistan
+13,1,AF13,Paktya,True,2021-11-17T00:00:00,,AFG,Afghanistan
+14,1,AF14,Khost,True,2021-11-17T00:00:00,,AFG,Afghanistan
+15,1,AF15,Kunar,True,2021-11-17T00:00:00,,AFG,Afghanistan
+16,1,AF16,Nuristan,True,2021-11-17T00:00:00,,AFG,Afghanistan
+17,1,AF17,Badakhshan,True,2021-11-17T00:00:00,,AFG,Afghanistan
+18,1,AF18,Takhar,True,2021-11-17T00:00:00,,AFG,Afghanistan
+19,1,AF19,Kunduz,True,2021-11-17T00:00:00,,AFG,Afghanistan
+20,1,AF20,Samangan,True,2021-11-17T00:00:00,,AFG,Afghanistan
+21,1,AF21,Balkh,True,2021-11-17T00:00:00,,AFG,Afghanistan
+22,1,AF22,Sar-e-Pul,True,2021-11-17T00:00:00,,AFG,Afghanistan
+23,1,AF23,Ghor,True,2021-11-17T00:00:00,,AFG,Afghanistan
+24,1,AF24,Daykundi,True,2021-11-17T00:00:00,,AFG,Afghanistan
+25,1,AF25,Uruzgan,True,2021-11-17T00:00:00,,AFG,Afghanistan
+26,1,AF26,Zabul,True,2021-11-17T00:00:00,,AFG,Afghanistan
+27,1,AF27,Kandahar,True,2021-11-17T00:00:00,,AFG,Afghanistan
+28,1,AF28,Jawzjan,True,2021-11-17T00:00:00,,AFG,Afghanistan
+29,1,AF29,Faryab,True,2021-11-17T00:00:00,,AFG,Afghanistan
+30,1,AF30,Hilmand,True,2021-11-17T00:00:00,,AFG,Afghanistan
+31,1,AF31,Badghis,True,2021-11-17T00:00:00,,AFG,Afghanistan
+32,1,AF32,Hirat,True,2021-11-17T00:00:00,,AFG,Afghanistan
+33,1,AF33,Farah,True,2021-11-17T00:00:00,,AFG,Afghanistan
+34,1,AF34,Nimroz,True,2021-11-17T00:00:00,,AFG,Afghanistan
+35,36,BF13,Centre,True,2020-03-23T00:00:00,,BFA,Burkina Faso
+36,36,BF46,Boucle du Mouhoun,True,2020-03-23T00:00:00,,BFA,Burkina Faso
+37,36,BF47,Cascades,True,2020-03-23T00:00:00,,BFA,Burkina Faso
+38,36,BF48,Centre-Est,True,2020-03-23T00:00:00,,BFA,Burkina Faso
+39,36,BF49,Centre-Nord,True,2020-03-23T00:00:00,,BFA,Burkina Faso
+40,36,BF50,Centre-Ouest,True,2020-03-23T00:00:00,,BFA,Burkina Faso
+41,36,BF51,Centre-Sud,True,2020-03-23T00:00:00,,BFA,Burkina Faso
+42,36,BF52,Est,True,2020-03-23T00:00:00,,BFA,Burkina Faso
+43,36,BF53,Hauts-Bassins,True,2020-03-23T00:00:00,,BFA,Burkina Faso
+44,36,BF54,Nord,True,2020-03-23T00:00:00,,BFA,Burkina Faso
+45,36,BF55,Plateau-Central,True,2020-03-23T00:00:00,,BFA,Burkina Faso
+46,36,BF56,Sahel,True,2020-03-23T00:00:00,,BFA,Burkina Faso
+47,36,BF57,Sud-Ouest,True,2020-03-23T00:00:00,,BFA,Burkina Faso
+48,43,CF11,Ombella M'Poko,True,2015-06-15T00:00:00,,CAF,Central African Republic
+49,43,CF12,Lobaye,True,2015-06-15T00:00:00,,CAF,Central African Republic
+50,43,CF21,Mambere-Kadei,True,2015-06-15T00:00:00,,CAF,Central African Republic
+51,43,CF22,Nana-Mambere,True,2015-06-15T00:00:00,,CAF,Central African Republic
+52,43,CF23,Sangha-Mbaere,True,2015-06-15T00:00:00,,CAF,Central African Republic
+53,43,CF31,Ouham Pende,True,2015-06-15T00:00:00,,CAF,Central African Republic
+54,43,CF32,Ouham,True,2015-06-15T00:00:00,,CAF,Central African Republic
+55,43,CF41,Kemo,True,2015-06-15T00:00:00,,CAF,Central African Republic
+56,43,CF42,Nana-Gribizi,True,2015-06-15T00:00:00,,CAF,Central African Republic
+57,43,CF43,Ouaka,True,2015-06-15T00:00:00,,CAF,Central African Republic
+58,43,CF51,Bamingui-Bangoran,True,2015-06-15T00:00:00,,CAF,Central African Republic
+59,43,CF52,Haute-Kotto,True,2015-06-15T00:00:00,,CAF,Central African Republic
+60,43,CF53,Vakaga,True,2015-06-15T00:00:00,,CAF,Central African Republic
+61,43,CF61,Basse-Kotto,True,2015-06-15T00:00:00,,CAF,Central African Republic
+62,43,CF62,Mbomou,True,2015-06-15T00:00:00,,CAF,Central African Republic
+63,43,CF63,Haut-Mbomou,True,2015-06-15T00:00:00,,CAF,Central African Republic
+64,43,CF71,Bangui,True,2015-06-15T00:00:00,,CAF,Central African Republic
+65,39,CM001,Adamaoua,True,2019-01-04T00:00:00,,CMR,Cameroon
+66,39,CM002,Centre,True,2019-01-04T00:00:00,,CMR,Cameroon
+67,39,CM003,Est,True,2019-01-04T00:00:00,,CMR,Cameroon
+68,39,CM004,Extreme-Nord,True,2019-01-04T00:00:00,,CMR,Cameroon
+69,39,CM005,Littoral,True,2019-01-04T00:00:00,,CMR,Cameroon
+70,39,CM006,Nord,True,2019-01-04T00:00:00,,CMR,Cameroon
+71,39,CM007,Nord-Ouest,True,2019-01-04T00:00:00,,CMR,Cameroon
+72,39,CM008,Ouest,True,2019-01-04T00:00:00,,CMR,Cameroon
+73,39,CM009,Sud,True,2019-01-04T00:00:00,,CMR,Cameroon
+74,39,CM010,Sud-Ouest,True,2019-01-04T00:00:00,,CMR,Cameroon
+75,52,CD10,Kinshasa,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+76,52,CD20,Kongo-Central,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+77,52,CD31,Kwango,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+78,52,CD32,Kwilu,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+79,52,CD33,Mai-Ndombe,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+80,52,CD41,Equateur,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+81,52,CD42,Sud-Ubangi,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+82,52,CD43,Nord-Ubangi,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+83,52,CD44,Mongala,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+84,52,CD45,Tshuapa,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+85,52,CD51,Tshopo,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+86,52,CD52,Bas-Uele,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+87,52,CD53,Haut-Uele,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+88,52,CD54,Ituri,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+89,52,CD61,Nord-Kivu,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+90,52,CD62,Sud-Kivu,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+91,52,CD63,Maniema,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+92,52,CD71,Haut-Katanga,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+93,52,CD72,Lualaba,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+94,52,CD73,Haut-Lomami,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+95,52,CD74,Tanganyika,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+96,52,CD81,Lomami,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+97,52,CD82,Kasai-Oriental,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+98,52,CD83,Sankuru,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+99,52,CD91,Kasai-Central,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+100,52,CD92,Kasai,True,2019-09-11T00:00:00,,COD,Democratic Republic of the Congo
+101,49,CO05,Antioquia,True,2020-04-16T00:00:00,,COL,Colombia
+102,49,CO08,Atlantico,True,2020-04-16T00:00:00,,COL,Colombia
+103,49,CO11,"Bogota, D.C.",True,2020-04-16T00:00:00,,COL,Colombia
+104,49,CO13,Bolivar,True,2020-04-16T00:00:00,,COL,Colombia
+105,49,CO15,Boyaca,True,2020-04-16T00:00:00,,COL,Colombia
+106,49,CO17,Caldas,True,2020-04-16T00:00:00,,COL,Colombia
+107,49,CO18,Caqueta,True,2020-04-16T00:00:00,,COL,Colombia
+108,49,CO19,Cauca,True,2020-04-16T00:00:00,,COL,Colombia
+109,49,CO20,Cesar,True,2020-04-16T00:00:00,,COL,Colombia
+110,49,CO23,Cordoba,True,2020-04-16T00:00:00,,COL,Colombia
+111,49,CO25,Cundinamarca,True,2020-04-16T00:00:00,,COL,Colombia
+112,49,CO27,Choco,True,2020-04-16T00:00:00,,COL,Colombia
+113,49,CO41,Huila,True,2020-04-16T00:00:00,,COL,Colombia
+114,49,CO44,La Guajira,True,2020-04-16T00:00:00,,COL,Colombia
+115,49,CO47,Magdalena,True,2020-04-16T00:00:00,,COL,Colombia
+116,49,CO50,Meta,True,2020-04-16T00:00:00,,COL,Colombia
+117,49,CO52,Narino,True,2020-04-16T00:00:00,,COL,Colombia
+118,49,CO54,Norte de Santander,True,2020-04-16T00:00:00,,COL,Colombia
+119,49,CO63,Quindio,True,2020-04-16T00:00:00,,COL,Colombia
+120,49,CO66,Risaralda,True,2020-04-16T00:00:00,,COL,Colombia
+121,49,CO68,Santander,True,2020-04-16T00:00:00,,COL,Colombia
+122,49,CO70,Sucre,True,2020-04-16T00:00:00,,COL,Colombia
+123,49,CO73,Tolima,True,2020-04-16T00:00:00,,COL,Colombia
+124,49,CO76,Valle del Cauca,True,2020-04-16T00:00:00,,COL,Colombia
+125,49,CO81,Arauca,True,2020-04-16T00:00:00,,COL,Colombia
+126,49,CO85,Casanare,True,2020-04-16T00:00:00,,COL,Colombia
+127,49,CO86,Putumayo,True,2020-04-16T00:00:00,,COL,Colombia
+128,49,CO88,"Archipielago de San Andres, Providencia y Santa Catalina",True,2020-04-16T00:00:00,,COL,Colombia
+129,49,CO91,Amazonas,True,2020-04-16T00:00:00,,COL,Colombia
+130,49,CO94,Guainia,True,2020-04-16T00:00:00,,COL,Colombia
+131,49,CO95,Guaviare,True,2020-04-16T00:00:00,,COL,Colombia
+132,49,CO97,Vaupes,True,2020-04-16T00:00:00,,COL,Colombia
+133,49,CO99,Vichada,True,2020-04-16T00:00:00,,COL,Colombia
+134,71,ET01,Tigray,True,2021-12-14T00:00:00,,ETH,Ethiopia
+135,71,ET02,Afar,True,2021-12-14T00:00:00,,ETH,Ethiopia
+136,71,ET03,Amhara,True,2021-12-14T00:00:00,,ETH,Ethiopia
+137,71,ET04,Oromia,True,2021-12-14T00:00:00,,ETH,Ethiopia
+138,71,ET05,Somali,True,2021-12-14T00:00:00,,ETH,Ethiopia
+139,71,ET06,Benishangul Gumz,True,2021-12-14T00:00:00,,ETH,Ethiopia
+140,71,ET07,Snnp,True,2021-12-14T00:00:00,,ETH,Ethiopia
+141,71,ET11,South West Ethiopia,True,2021-12-14T00:00:00,,ETH,Ethiopia
+142,71,ET12,Gambela,True,2021-12-14T00:00:00,,ETH,Ethiopia
+143,71,ET13,Harari,True,2021-12-14T00:00:00,,ETH,Ethiopia
+144,71,ET14,Addis Ababa,True,2021-12-14T00:00:00,,ETH,Ethiopia
+145,71,ET15,Dire Dawa,True,2021-12-14T00:00:00,,ETH,Ethiopia
+146,71,ET16,Sidama,True,2021-12-14T00:00:00,,ETH,Ethiopia
+147,91,GT01,Guatemala,True,2019-02-07T00:00:00,,GTM,Guatemala
+148,91,GT02,El Progreso,True,2019-02-07T00:00:00,,GTM,Guatemala
+149,91,GT03,Sacatepequez,True,2019-02-07T00:00:00,,GTM,Guatemala
+150,91,GT04,Chimaltenango,True,2019-02-07T00:00:00,,GTM,Guatemala
+151,91,GT05,Escuintla,True,2019-02-07T00:00:00,,GTM,Guatemala
+152,91,GT06,Santa Rosa,True,2019-02-07T00:00:00,,GTM,Guatemala
+153,91,GT07,Solola,True,2019-02-07T00:00:00,,GTM,Guatemala
+154,91,GT08,Totonicapan,True,2019-02-07T00:00:00,,GTM,Guatemala
+155,91,GT09,Quetzaltenango,True,2019-02-07T00:00:00,,GTM,Guatemala
+156,91,GT10,Suchitepequez,True,2019-02-07T00:00:00,,GTM,Guatemala
+157,91,GT11,Retalhuleu,True,2019-02-07T00:00:00,,GTM,Guatemala
+158,91,GT12,San Marcos,True,2019-02-07T00:00:00,,GTM,Guatemala
+159,91,GT13,Huehuetenango,True,2019-02-07T00:00:00,,GTM,Guatemala
+160,91,GT14,Quiche,True,2019-02-07T00:00:00,,GTM,Guatemala
+161,91,GT15,Baja Verapaz,True,2019-02-07T00:00:00,,GTM,Guatemala
+162,91,GT16,Alta Verapaz,True,2019-02-07T00:00:00,,GTM,Guatemala
+163,91,GT17,Peten,True,2019-02-07T00:00:00,,GTM,Guatemala
+164,91,GT18,Izabal,True,2019-02-07T00:00:00,,GTM,Guatemala
+165,91,GT19,Zacapa,True,2019-02-07T00:00:00,,GTM,Guatemala
+166,91,GT20,Chiquimula,True,2019-02-07T00:00:00,,GTM,Guatemala
+167,91,GT21,Jalapa,True,2019-02-07T00:00:00,,GTM,Guatemala
+168,91,GT22,Jutiapa,True,2019-02-07T00:00:00,,GTM,Guatemala
+169,99,HN01,Atlantida,True,2016-10-05T00:00:00,,HND,Honduras
+170,99,HN02,Colon,True,2016-10-05T00:00:00,,HND,Honduras
+171,99,HN03,Comayagua,True,2016-10-05T00:00:00,,HND,Honduras
+172,99,HN04,Copan,True,2016-10-05T00:00:00,,HND,Honduras
+173,99,HN05,Cortes,True,2016-10-05T00:00:00,,HND,Honduras
+174,99,HN06,Choluteca,True,2016-10-05T00:00:00,,HND,Honduras
+175,99,HN07,El Paraiso,True,2016-10-05T00:00:00,,HND,Honduras
+176,99,HN08,Francisco Morazan,True,2016-10-05T00:00:00,,HND,Honduras
+177,99,HN09,Gracias a Dios,True,2016-10-05T00:00:00,,HND,Honduras
+178,99,HN10,Intibuca,True,2016-10-05T00:00:00,,HND,Honduras
+179,99,HN11,Islas de La Bahia,True,2016-10-05T00:00:00,,HND,Honduras
+180,99,HN12,La Paz,True,2016-10-05T00:00:00,,HND,Honduras
+181,99,HN13,Lempira,True,2016-10-05T00:00:00,,HND,Honduras
+182,99,HN14,Ocotepeque,True,2016-10-05T00:00:00,,HND,Honduras
+183,99,HN15,Olancho,True,2016-10-05T00:00:00,,HND,Honduras
+184,99,HN16,Santa Barbara,True,2016-10-05T00:00:00,,HND,Honduras
+185,99,HN17,Valle,True,2016-10-05T00:00:00,,HND,Honduras
+186,99,HN18,Yoro,True,2016-10-05T00:00:00,,HND,Honduras
+187,96,HT01,West,True,2018-11-29T00:00:00,,HTI,Haiti
+188,96,HT02,South-East,True,2018-11-29T00:00:00,,HTI,Haiti
+189,96,HT03,North,True,2018-11-29T00:00:00,,HTI,Haiti
+190,96,HT04,North-East,True,2018-11-29T00:00:00,,HTI,Haiti
+191,96,HT05,Artibonite,True,2018-11-29T00:00:00,,HTI,Haiti
+192,96,HT06,Centre,True,2018-11-29T00:00:00,,HTI,Haiti
+193,96,HT07,South,True,2018-11-29T00:00:00,,HTI,Haiti
+194,96,HT08,Grande'Anse,True,2018-11-29T00:00:00,,HTI,Haiti
+195,96,HT09,North-West,True,2018-11-29T00:00:00,,HTI,Haiti
+196,96,HT10,Nippes,True,2018-11-29T00:00:00,,HTI,Haiti
+197,137,ML01,Kayes,True,2021-12-20T00:00:00,,MLI,Mali
+198,137,ML02,Koulikoro,True,2021-12-20T00:00:00,,MLI,Mali
+199,137,ML03,Sikasso,True,2021-12-20T00:00:00,,MLI,Mali
+200,137,ML04,Segou,True,2021-12-20T00:00:00,,MLI,Mali
+201,137,ML05,Mopti,True,2021-12-20T00:00:00,,MLI,Mali
+202,137,ML06,Tombouctou,True,2021-12-20T00:00:00,,MLI,Mali
+203,137,ML07,Gao,True,2021-12-20T00:00:00,,MLI,Mali
+204,137,ML08,Kidal,True,2021-12-20T00:00:00,,MLI,Mali
+205,137,ML09,Bamako,True,2021-12-20T00:00:00,,MLI,Mali
+206,137,ML10,Menaka,True,2021-12-20T00:00:00,,MLI,Mali
+207,153,MMR001,Kachin,True,2024-02-15T00:00:00,,MMR,Myanmar
+208,153,MMR002,Kayah,True,2024-02-15T00:00:00,,MMR,Myanmar
+209,153,MMR003,Kayin,True,2024-02-15T00:00:00,,MMR,Myanmar
+210,153,MMR004,Chin,True,2024-02-15T00:00:00,,MMR,Myanmar
+211,153,MMR005,Sagaing,True,2024-02-15T00:00:00,,MMR,Myanmar
+212,153,MMR006,Tanintharyi,True,2024-02-15T00:00:00,,MMR,Myanmar
+213,153,MMR007,Bago (East),True,2024-02-15T00:00:00,,MMR,Myanmar
+214,153,MMR008,Bago (West),True,2024-02-15T00:00:00,,MMR,Myanmar
+215,153,MMR009,Magway,True,2024-02-15T00:00:00,,MMR,Myanmar
+216,153,MMR010,Mandalay,True,2024-02-15T00:00:00,,MMR,Myanmar
+217,153,MMR011,Mon,True,2024-02-15T00:00:00,,MMR,Myanmar
+218,153,MMR012,Rakhine,True,2024-02-15T00:00:00,,MMR,Myanmar
+219,153,MMR013,Yangon,True,2024-02-15T00:00:00,,MMR,Myanmar
+220,153,MMR014,Shan (South),True,2024-02-15T00:00:00,,MMR,Myanmar
+221,153,MMR015,Shan (North),True,2024-02-15T00:00:00,,MMR,Myanmar
+222,153,MMR016,Shan (East),True,2024-02-15T00:00:00,,MMR,Myanmar
+223,153,MMR017,Ayeyarwady,True,2024-02-15T00:00:00,,MMR,Myanmar
+224,153,MMR018,Nay Pyi Taw,True,2024-02-15T00:00:00,,MMR,Myanmar
+225,152,MZ01,Cabo Delgado,True,2019-06-07T00:00:00,,MOZ,Mozambique
+226,152,MZ02,Gaza,True,2019-06-07T00:00:00,,MOZ,Mozambique
+227,152,MZ03,Inhambane,True,2019-06-07T00:00:00,,MOZ,Mozambique
+228,152,MZ04,Manica,True,2019-06-07T00:00:00,,MOZ,Mozambique
+229,152,MZ05,Maputo,True,2019-06-07T00:00:00,,MOZ,Mozambique
+230,152,MZ06,Maputo City,True,2019-06-07T00:00:00,,MOZ,Mozambique
+231,152,MZ07,Nampula,True,2019-06-07T00:00:00,,MOZ,Mozambique
+232,152,MZ08,Niassa,True,2019-06-07T00:00:00,,MOZ,Mozambique
+233,152,MZ09,Sofala,True,2019-06-07T00:00:00,,MOZ,Mozambique
+234,152,MZ10,Tete,True,2019-06-07T00:00:00,,MOZ,Mozambique
+235,152,MZ11,Zambezia,True,2019-06-07T00:00:00,,MOZ,Mozambique
+236,161,NE001,Agadez,True,2023-07-25T00:00:00,,NER,Niger
+237,161,NE002,Diffa,True,2023-07-25T00:00:00,,NER,Niger
+238,161,NE003,Dosso,True,2023-07-25T00:00:00,,NER,Niger
+239,161,NE004,Maradi,True,2023-07-25T00:00:00,,NER,Niger
+240,161,NE005,Tahoua,True,2023-07-25T00:00:00,,NER,Niger
+241,161,NE006,Tillaberi,True,2023-07-25T00:00:00,,NER,Niger
+242,161,NE007,Zinder,True,2023-07-25T00:00:00,,NER,Niger
+243,161,NE008,Niamey,True,2023-07-25T00:00:00,,NER,Niger
+244,162,NG001,Abia,True,2019-04-17T00:00:00,,NGA,Nigeria
+245,162,NG002,Adamawa,True,2019-04-17T00:00:00,,NGA,Nigeria
+246,162,NG003,Akwa Ibom,True,2019-04-17T00:00:00,,NGA,Nigeria
+247,162,NG004,Anambra,True,2019-04-17T00:00:00,,NGA,Nigeria
+248,162,NG005,Bauchi,True,2019-04-17T00:00:00,,NGA,Nigeria
+249,162,NG006,Bayelsa,True,2019-04-17T00:00:00,,NGA,Nigeria
+250,162,NG007,Benue,True,2019-04-17T00:00:00,,NGA,Nigeria
+251,162,NG008,Borno,True,2019-04-17T00:00:00,,NGA,Nigeria
+252,162,NG009,Cross River,True,2019-04-17T00:00:00,,NGA,Nigeria
+253,162,NG010,Delta,True,2019-04-17T00:00:00,,NGA,Nigeria
+254,162,NG011,Ebonyi,True,2019-04-17T00:00:00,,NGA,Nigeria
+255,162,NG012,Edo,True,2019-04-17T00:00:00,,NGA,Nigeria
+256,162,NG013,Ekiti,True,2019-04-17T00:00:00,,NGA,Nigeria
+257,162,NG014,Enugu,True,2019-04-17T00:00:00,,NGA,Nigeria
+258,162,NG015,Federal Capital Territory,True,2019-04-17T00:00:00,,NGA,Nigeria
+259,162,NG016,Gombe,True,2019-04-17T00:00:00,,NGA,Nigeria
+260,162,NG017,Imo,True,2019-04-17T00:00:00,,NGA,Nigeria
+261,162,NG018,Jigawa,True,2019-04-17T00:00:00,,NGA,Nigeria
+262,162,NG019,Kaduna,True,2019-04-17T00:00:00,,NGA,Nigeria
+263,162,NG020,Kano,True,2019-04-17T00:00:00,,NGA,Nigeria
+264,162,NG021,Katsina,True,2019-04-17T00:00:00,,NGA,Nigeria
+265,162,NG022,Kebbi,True,2019-04-17T00:00:00,,NGA,Nigeria
+266,162,NG023,Kogi,True,2019-04-17T00:00:00,,NGA,Nigeria
+267,162,NG024,Kwara,True,2019-04-17T00:00:00,,NGA,Nigeria
+268,162,NG025,Lagos,True,2019-04-17T00:00:00,,NGA,Nigeria
+269,162,NG026,Nasarawa,True,2019-04-17T00:00:00,,NGA,Nigeria
+270,162,NG027,Niger,True,2019-04-17T00:00:00,,NGA,Nigeria
+271,162,NG028,Ogun,True,2019-04-17T00:00:00,,NGA,Nigeria
+272,162,NG029,Ondo,True,2019-04-17T00:00:00,,NGA,Nigeria
+273,162,NG030,Osun,True,2019-04-17T00:00:00,,NGA,Nigeria
+274,162,NG031,Oyo,True,2019-04-17T00:00:00,,NGA,Nigeria
+275,162,NG032,Plateau,True,2019-04-17T00:00:00,,NGA,Nigeria
+276,162,NG033,Rivers,True,2019-04-17T00:00:00,,NGA,Nigeria
+277,162,NG034,Sokoto,True,2019-04-17T00:00:00,,NGA,Nigeria
+278,162,NG035,Taraba,True,2019-04-17T00:00:00,,NGA,Nigeria
+279,162,NG036,Yobe,True,2019-04-17T00:00:00,,NGA,Nigeria
+280,162,NG037,Zamfara,True,2019-04-17T00:00:00,,NGA,Nigeria
+281,169,PS01,West Bank,True,2023-10-19T00:00:00,,PSE,State of Palestine
+282,169,PS02,Gaza Strip,True,2023-10-19T00:00:00,,PSE,State of Palestine
+283,210,SD01,Khartoum,True,2020-08-31T00:00:00,,SDN,Sudan
+284,210,SD02,North Darfur,True,2020-08-31T00:00:00,,SDN,Sudan
+285,210,SD03,South Darfur,True,2020-08-31T00:00:00,,SDN,Sudan
+286,210,SD04,West Darfur,True,2020-08-31T00:00:00,,SDN,Sudan
+287,210,SD05,East Darfur,True,2020-08-31T00:00:00,,SDN,Sudan
+288,210,SD06,Central Darfur,True,2020-08-31T00:00:00,,SDN,Sudan
+289,210,SD07,South Kordofan,True,2020-08-31T00:00:00,,SDN,Sudan
+290,210,SD08,Blue Nile,True,2020-08-31T00:00:00,,SDN,Sudan
+291,210,SD09,White Nile,True,2020-08-31T00:00:00,,SDN,Sudan
+292,210,SD10,Red Sea,True,2020-08-31T00:00:00,,SDN,Sudan
+293,210,SD11,Kassala,True,2020-08-31T00:00:00,,SDN,Sudan
+294,210,SD12,Gedaref,True,2020-08-31T00:00:00,,SDN,Sudan
+295,210,SD13,North Kordofan,True,2020-08-31T00:00:00,,SDN,Sudan
+296,210,SD14,Sennar,True,2020-08-31T00:00:00,,SDN,Sudan
+297,210,SD15,Aj Jazirah,True,2020-08-31T00:00:00,,SDN,Sudan
+298,210,SD16,River Nile,True,2020-08-31T00:00:00,,SDN,Sudan
+299,210,SD17,Northern,True,2020-08-31T00:00:00,,SDN,Sudan
+300,210,SD18,West Kordofan,True,2020-08-31T00:00:00,,SDN,Sudan
+301,210,SD19,Abyei PCA,True,2020-08-31T00:00:00,,SDN,Sudan
+302,67,SV01,Ahuachapan,True,2021-02-04T00:00:00,,SLV,El Salvador
+303,67,SV02,Cabanas,True,2021-02-04T00:00:00,,SLV,El Salvador
+304,67,SV03,Chalatenango,True,2021-02-04T00:00:00,,SLV,El Salvador
+305,67,SV04,Cuscatlan,True,2021-02-04T00:00:00,,SLV,El Salvador
+306,67,SV05,La Libertad,True,2021-02-04T00:00:00,,SLV,El Salvador
+307,67,SV06,La Paz,True,2021-02-04T00:00:00,,SLV,El Salvador
+308,67,SV07,La Union,True,2021-02-04T00:00:00,,SLV,El Salvador
+309,67,SV08,Morazan,True,2021-02-04T00:00:00,,SLV,El Salvador
+310,67,SV09,San Miguel,True,2021-02-04T00:00:00,,SLV,El Salvador
+311,67,SV10,San Salvador,True,2021-02-04T00:00:00,,SLV,El Salvador
+312,67,SV11,San Vicente,True,2021-02-04T00:00:00,,SLV,El Salvador
+313,67,SV12,Santa Ana,True,2021-02-04T00:00:00,,SLV,El Salvador
+314,67,SV13,Sonsonate,True,2021-02-04T00:00:00,,SLV,El Salvador
+315,67,SV14,Usulutan,True,2021-02-04T00:00:00,,SLV,El Salvador
+316,204,SO11,Awdal,True,2023-03-08T00:00:00,,SOM,Somalia
+317,204,SO12,Woqooyi Galbeed,True,2023-03-08T00:00:00,,SOM,Somalia
+318,204,SO13,Togdheer,True,2023-03-08T00:00:00,,SOM,Somalia
+319,204,SO14,Sool,True,2023-03-08T00:00:00,,SOM,Somalia
+320,204,SO15,Sanaag,True,2023-03-08T00:00:00,,SOM,Somalia
+321,204,SO16,Bari,True,2023-03-08T00:00:00,,SOM,Somalia
+322,204,SO17,Nugaal,True,2023-03-08T00:00:00,,SOM,Somalia
+323,204,SO18,Mudug,True,2023-03-08T00:00:00,,SOM,Somalia
+324,204,SO19,Galgaduud,True,2023-03-08T00:00:00,,SOM,Somalia
+325,204,SO20,Hiraan,True,2023-03-08T00:00:00,,SOM,Somalia
+326,204,SO21,Middle Shabelle,True,2023-03-08T00:00:00,,SOM,Somalia
+327,204,SO22,Banadir,True,2023-03-08T00:00:00,,SOM,Somalia
+328,204,SO23,Lower Shabelle,True,2023-03-08T00:00:00,,SOM,Somalia
+329,204,SO24,Bay,True,2023-03-08T00:00:00,,SOM,Somalia
+330,204,SO25,Bakool,True,2023-03-08T00:00:00,,SOM,Somalia
+331,204,SO26,Gedo,True,2023-03-08T00:00:00,,SOM,Somalia
+332,204,SO27,Middle Juba,True,2023-03-08T00:00:00,,SOM,Somalia
+333,204,SO28,Lower Juba,True,2023-03-08T00:00:00,,SOM,Somalia
+334,209,SS00,Abyei Region,True,2023-08-29T00:00:00,,SSD,South Sudan
+335,209,SS01,Central Equatoria,True,2023-08-29T00:00:00,,SSD,South Sudan
+336,209,SS02,Eastern Equatoria,True,2023-08-29T00:00:00,,SSD,South Sudan
+337,209,SS03,Jonglei,True,2023-08-29T00:00:00,,SSD,South Sudan
+338,209,SS04,Lakes,True,2023-08-29T00:00:00,,SSD,South Sudan
+339,209,SS05,Northern Bahr el Ghazal,True,2023-08-29T00:00:00,,SSD,South Sudan
+340,209,SS06,Unity,True,2023-08-29T00:00:00,,SSD,South Sudan
+341,209,SS07,Upper Nile,True,2023-08-29T00:00:00,,SSD,South Sudan
+342,209,SS08,Warrap,True,2023-08-29T00:00:00,,SSD,South Sudan
+343,209,SS09,Western Bahr el Ghazal,True,2023-08-29T00:00:00,,SSD,South Sudan
+344,209,SS10,Western Equatoria,True,2023-08-29T00:00:00,,SSD,South Sudan
+345,216,SY01,Damascus,True,2020-12-17T00:00:00,,SYR,Syrian Arab Republic
+346,216,SY02,Aleppo,True,2020-12-17T00:00:00,,SYR,Syrian Arab Republic
+347,216,SY03,Rural Damascus,True,2020-12-17T00:00:00,,SYR,Syrian Arab Republic
+348,216,SY04,Homs,True,2020-12-17T00:00:00,,SYR,Syrian Arab Republic
+349,216,SY05,Hama,True,2020-12-17T00:00:00,,SYR,Syrian Arab Republic
+350,216,SY06,Lattakia,True,2020-12-17T00:00:00,,SYR,Syrian Arab Republic
+351,216,SY07,Idleb,True,2020-12-17T00:00:00,,SYR,Syrian Arab Republic
+352,216,SY08,Al-Hasakeh,True,2020-12-17T00:00:00,,SYR,Syrian Arab Republic
+353,216,SY09,Deir-ez-Zor,True,2020-12-17T00:00:00,,SYR,Syrian Arab Republic
+354,216,SY10,Tartous,True,2020-12-17T00:00:00,,SYR,Syrian Arab Republic
+355,216,SY11,Ar-Raqqa,True,2020-12-17T00:00:00,,SYR,Syrian Arab Republic
+356,216,SY12,Dar'a,True,2020-12-17T00:00:00,,SYR,Syrian Arab Republic
+357,216,SY13,As-Sweida,True,2020-12-17T00:00:00,,SYR,Syrian Arab Republic
+358,216,SY14,Quneitra,True,2020-12-17T00:00:00,,SYR,Syrian Arab Republic
+359,44,TD01,Batha,True,2016-05-09T00:00:00,,TCD,Chad
+360,44,TD02,Borkou,True,2016-05-09T00:00:00,,TCD,Chad
+361,44,TD03,Chari-Baguirmi,True,2016-05-09T00:00:00,,TCD,Chad
+362,44,TD04,Guera,True,2016-05-09T00:00:00,,TCD,Chad
+363,44,TD05,Hadjer-Lamis,True,2016-05-09T00:00:00,,TCD,Chad
+364,44,TD06,Kanem,True,2016-05-09T00:00:00,,TCD,Chad
+365,44,TD07,Lac,True,2016-05-09T00:00:00,,TCD,Chad
+366,44,TD08,Logone Occidental,True,2016-05-09T00:00:00,,TCD,Chad
+367,44,TD09,Logone Oriental,True,2016-05-09T00:00:00,,TCD,Chad
+368,44,TD10,Mandoul,True,2016-05-09T00:00:00,,TCD,Chad
+369,44,TD11,Mayo-Kebbi Est,True,2016-05-09T00:00:00,,TCD,Chad
+370,44,TD12,Mayo-Kebbi Ouest,True,2016-05-09T00:00:00,,TCD,Chad
+371,44,TD13,Moyen-Chari,True,2016-05-09T00:00:00,,TCD,Chad
+372,44,TD14,Ouaddai,True,2016-05-09T00:00:00,,TCD,Chad
+373,44,TD15,Salamat,True,2016-05-09T00:00:00,,TCD,Chad
+374,44,TD16,Tandjile,True,2016-05-09T00:00:00,,TCD,Chad
+375,44,TD17,Wadi Fira,True,2016-05-09T00:00:00,,TCD,Chad
+376,44,TD18,N'Djamena,True,2016-05-09T00:00:00,,TCD,Chad
+377,44,TD19,Barh-El-Gazel,True,2016-05-09T00:00:00,,TCD,Chad
+378,44,TD20,Ennedi Est,True,2016-05-09T00:00:00,,TCD,Chad
+379,44,TD21,Sila,True,2016-05-09T00:00:00,,TCD,Chad
+380,44,TD22,Tibesti,True,2016-05-09T00:00:00,,TCD,Chad
+381,44,TD23,Ennedi Ouest,True,2016-05-09T00:00:00,,TCD,Chad
+382,232,UA01,Autonomous Republic of Crimea,True,2024-04-16T00:00:00,,UKR,Ukraine
+383,232,UA05,Vinnytska,True,2024-04-16T00:00:00,,UKR,Ukraine
+384,232,UA07,Volynska,True,2024-04-16T00:00:00,,UKR,Ukraine
+385,232,UA12,Dnipropetrovska,True,2024-04-16T00:00:00,,UKR,Ukraine
+386,232,UA14,Donetska,True,2024-04-16T00:00:00,,UKR,Ukraine
+387,232,UA18,Zhytomyrska,True,2024-04-16T00:00:00,,UKR,Ukraine
+388,232,UA21,Zakarpatska,True,2024-04-16T00:00:00,,UKR,Ukraine
+389,232,UA23,Zaporizka,True,2024-04-16T00:00:00,,UKR,Ukraine
+390,232,UA26,Ivano-Frankivska,True,2024-04-16T00:00:00,,UKR,Ukraine
+391,232,UA32,Kyivska,True,2024-04-16T00:00:00,,UKR,Ukraine
+392,232,UA35,Kirovohradska,True,2024-04-16T00:00:00,,UKR,Ukraine
+393,232,UA44,Luhanska,True,2024-04-16T00:00:00,,UKR,Ukraine
+394,232,UA46,Lvivska,True,2024-04-16T00:00:00,,UKR,Ukraine
+395,232,UA48,Mykolaivska,True,2024-04-16T00:00:00,,UKR,Ukraine
+396,232,UA51,Odeska,True,2024-04-16T00:00:00,,UKR,Ukraine
+397,232,UA53,Poltavska,True,2024-04-16T00:00:00,,UKR,Ukraine
+398,232,UA56,Rivnenska,True,2024-04-16T00:00:00,,UKR,Ukraine
+399,232,UA59,Sumska,True,2024-04-16T00:00:00,,UKR,Ukraine
+400,232,UA61,Ternopilska,True,2024-04-16T00:00:00,,UKR,Ukraine
+401,232,UA63,Kharkivska,True,2024-04-16T00:00:00,,UKR,Ukraine
+402,232,UA65,Khersonska,True,2024-04-16T00:00:00,,UKR,Ukraine
+403,232,UA68,Khmelnytska,True,2024-04-16T00:00:00,,UKR,Ukraine
+404,232,UA71,Cherkaska,True,2024-04-16T00:00:00,,UKR,Ukraine
+405,232,UA73,Chernivetska,True,2024-04-16T00:00:00,,UKR,Ukraine
+406,232,UA74,Chernihivska,True,2024-04-16T00:00:00,,UKR,Ukraine
+407,232,UA80,Kyiv,True,2024-04-16T00:00:00,,UKR,Ukraine
+408,232,UA85,Sevastopol,True,2024-04-16T00:00:00,,UKR,Ukraine
+409,240,VE01,Distrito Capital,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+410,240,VE02,Amazonas,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+411,240,VE03,Anzoategui,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+412,240,VE04,Apure,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+413,240,VE05,Aragua,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+414,240,VE06,Barinas,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+415,240,VE07,Bolivar,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+416,240,VE08,Carabobo,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+417,240,VE09,Cojedes,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+418,240,VE10,Delta Amacuro,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+419,240,VE11,Falcon,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+420,240,VE12,Guarico,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+421,240,VE13,Lara,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+422,240,VE14,Merida,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+423,240,VE15,Miranda,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+424,240,VE16,Monagas,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+425,240,VE17,Nueva Esparta,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+426,240,VE18,Portuguesa,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+427,240,VE19,Sucre,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+428,240,VE20,Tachira,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+429,240,VE21,Trujillo,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+430,240,VE22,Yaracuy,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+431,240,VE23,Zulia,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+432,240,VE24,La Guaira,True,2021-02-23T00:00:00,,VEN,Venezuela (Bolivarian Republic of)
+433,245,YE11,Ibb,True,2019-11-22T00:00:00,,YEM,Yemen
+434,245,YE12,Abyan,True,2019-11-22T00:00:00,,YEM,Yemen
+435,245,YE13,Sana'a City,True,2019-11-22T00:00:00,,YEM,Yemen
+436,245,YE14,Al Bayda,True,2019-11-22T00:00:00,,YEM,Yemen
+437,245,YE15,Ta'iz,True,2019-11-22T00:00:00,,YEM,Yemen
+438,245,YE16,Al Jawf,True,2019-11-22T00:00:00,,YEM,Yemen
+439,245,YE17,Hajjah,True,2019-11-22T00:00:00,,YEM,Yemen
+440,245,YE18,Al Hodeidah,True,2019-11-22T00:00:00,,YEM,Yemen
+441,245,YE19,Hadramawt,True,2019-11-22T00:00:00,,YEM,Yemen
+442,245,YE20,Dhamar,True,2019-11-22T00:00:00,,YEM,Yemen
+443,245,YE21,Shabwah,True,2019-11-22T00:00:00,,YEM,Yemen
+444,245,YE22,Sa'dah,True,2019-11-22T00:00:00,,YEM,Yemen
+445,245,YE23,Sana'a,True,2019-11-22T00:00:00,,YEM,Yemen
+446,245,YE24,Aden,True,2019-11-22T00:00:00,,YEM,Yemen
+447,245,YE25,Lahj,True,2019-11-22T00:00:00,,YEM,Yemen
+448,245,YE26,Ma'rib,True,2019-11-22T00:00:00,,YEM,Yemen
+449,245,YE27,Al Mahwit,True,2019-11-22T00:00:00,,YEM,Yemen
+450,245,YE28,Al Maharah,True,2019-11-22T00:00:00,,YEM,Yemen
+451,245,YE29,Amran,True,2019-11-22T00:00:00,,YEM,Yemen
+452,245,YE30,Ad Dali',True,2019-11-22T00:00:00,,YEM,Yemen
+453,245,YE31,Raymah,True,2019-11-22T00:00:00,,YEM,Yemen
+454,245,YE32,Socotra,True,2019-11-22T00:00:00,,YEM,Yemen
