@@ -148,7 +148,7 @@ id,code,name,has_hrp,in_gho,from_cods,reference_period_start,reference_period_en
 146,MDA,Republic of Moldova,False,True,True,2009-01-07T00:00:00,
 147,MCO,Monaco,False,False,True,1974-01-01T00:00:00,
 148,MNG,Mongolia,False,False,True,1974-01-01T00:00:00,
-149,MNE,Montenegro,False,False,True,2006-09-26T00:00:00,
+149,MNE,Mongolia,False,False,True,2006-09-26T00:00:00,
 150,MSR,Montserrat,False,False,True,1974-01-01T00:00:00,
 151,MAR,Morocco,False,False,True,1974-01-01T00:00:00,
 152,MOZ,Mozambique,True,True,True,1974-01-01T00:00:00,

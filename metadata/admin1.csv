@@ -1,5 +1,5 @@
 id,location_ref,code,name,from_cods,reference_period_start,reference_period_end,location_code,location_name
-#adm1+hapi_id,#country+hapi_id,#adm1+code,#adm1+name,,#date+start,#date+end,#country+code,#country+code
+#adm1+hapi_id,#country+hapi_id,#adm1+code,#adm1+name,,#date+start,#date+end,#country+code,#country+name
 1,1,AF01,Kabul,True,2021-11-17T00:00:00,,AFG,Afghanistan
 2,1,AF02,Kapisa,True,2021-11-17T00:00:00,,AFG,Afghanistan
 3,1,AF03,Parwan,True,2021-11-17T00:00:00,,AFG,Afghanistan

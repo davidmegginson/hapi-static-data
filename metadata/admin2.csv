@@ -1,5 +1,5 @@
 id,admin1_ref,code,name,from_cods,reference_period_start,reference_period_end,admin1_code,admin1_name,location_code,location_name,location_ref
-#adm2+hapi_id,#adm1+hapi_id,#adm2+code,#adm2+name,,#date+start,#date+end,#adm1+code,#adm1+code,#country+code,#country+code,#country+hapi_id
+#adm2+hapi_id,#adm1_hapi_id,#adm2+code,#adm2+name,,#date+start,#date+end,#adm1+code,#adm1+name,#country+code,#country+name,#country+hapi_id
 1,1,AF0101,Kabul,True,2021-11-17T00:00:00,,AF01,Kabul,AFG,Afghanistan,1
 2,1,AF0102,Paghman,True,2021-11-17T00:00:00,,AF01,Kabul,AFG,Afghanistan,1
 3,1,AF0103,Chahar Asyab,True,2021-11-17T00:00:00,,AF01,Kabul,AFG,Afghanistan,1
